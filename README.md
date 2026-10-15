@@ -1,10 +1,12 @@
 ## Hi there 👋
 
+This is mine
+
 <!--
 **ahmadkhanmn-blip/ahmadkhanmn-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ About me 
 - I'm a undergraduate student studying Computer and Data Science at the University of Wisconsin Madison
 - Class of 2030
 - I enjoy lifting weights and travelling in my free time
